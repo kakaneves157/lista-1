@@ -1,0 +1,5 @@
+print("-"*20)
+n1 = float(input("digite um numero em metro:"))
+print("-"*20)
+print("o valor de {} metros em cetimetros e  {}".format (n1,n1*100))
+print("-"*20)
